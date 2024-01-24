@@ -331,6 +331,9 @@ footer img {
         flex-direction: column;
         text-align: center;
     }
+    .infoimportante a {
+        margin-bottom: -120px;
+    }
     .infoimportante H1, .h2 {
         display: none;
     }
